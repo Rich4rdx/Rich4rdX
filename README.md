@@ -4,7 +4,7 @@
 
 Construyo aplicaciones web completas: APIs REST con autenticación y roles, interfaces en Angular que las consumen y despliegue con Docker. Últimamente también trabajo con **agentes de IA** conectados a sistemas reales mediante MCP.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/richard-hernandez-a64508339)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-hernandez-a64508339)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ameliohernandez69@gmail.com)
 
 ---
